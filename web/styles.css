@@ -36,3 +36,13 @@ input {
 img {
 	max-width: 300px;
 }
+
+.favBtn {
+	background-color: yellow;
+	font-size: large;
+}
+.favBtn:hover {
+	background-color: black;
+	font-size: large;
+	color: white;
+}

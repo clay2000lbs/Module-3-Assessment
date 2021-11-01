@@ -1,0 +1,3 @@
+    Our primary way of connecting to the internet is a web browser. Web browsers allow us yo request data from an api or server. From there, the browesr translates and displays that information based on how each website is coded.
+
+    When we click on a link we are either being brought to a new website or route within an application. 
